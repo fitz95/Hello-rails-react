@@ -33,14 +33,6 @@ Its a rails react app that sends random greetings .
 - **Send Greeting**
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-You would be able see later a Live Version of this Budget App  deployed with Render below
-
-**https://storegere.onrender.com/**
-
-- video link https://www.loom.com/share/85fdc3351fc54305b7e70c11307fd118
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -55,10 +47,10 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone this repo <git@github.com:fitz95/budget_app.git>
+- Clone this repo <git@github.com:fitz95/hello-rails-react.git>
 
   ```bash
-  git clone git@github.com:fitz95/budget_app.git
+  git clone git@github.com:fitz95/hello-rails-react.git
   ```
 
 - Navigate to Budget-app folder/directory
@@ -113,7 +105,6 @@ If you like this project, please give it a ⭐️!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Thanks to my learning and coding partners for all their support.
-- I also Acknowledge Gregoire Vella for this project UI 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
